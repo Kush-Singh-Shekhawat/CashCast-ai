@@ -25,7 +25,7 @@ app.py
 ## ⚙️ How to Run
 python -m venv venv
 venv\Scripts\activate
-pip install pandas numpy streamlit plotly
+pip install -r requirements.txt
 streamlit run app.py
 
 ## 📊 Input Format (CSV)
